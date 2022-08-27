@@ -1,21 +1,16 @@
-# Hyper-DSNet
+# HyperPanCollection
+
+## -> Datasets for hyperspectral pansharpening, 
+## -> e.g., Washington DC Mall, Pavia Center, Botswana and a real (or full-resolution) dataset FR1.
 
 * **Homepage:** https://liangjiandeng.github.io/ 
-* Code for the paper: "A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening"
+* Also, the datasets of the paper: "A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening"
 
 
 
-# Dependencies and Installation
+# Dataset Details
 
-* Python 3.8 (Recommend to use [Anaconda](https://www.anaconda.com/))
-* Pytorch 1.7.0
-* NVIDIA GPU + CUDA
-* Python packages: `pip install numpy scipy h5py`
-* TensorBoard
-
-
-
-# Dataset
+* Use [Baidu Cloud] (https://pan.baidu.com/pcloud/home) to download these datasets.
 
 * The simulated datasets used in this paper are Washington DC Mall, Pavia Center and Botswana Dataset. Here we provide complete training and testing data for download.
 
@@ -33,46 +28,28 @@
 
   
 
-# Code
+# Reference
 
-* data.py: The dataloader of the training and testing data.
-* main.py: The training and testing function of our Hyper-DSNet.
-* model.py: The whole model of our Hyper-DSNet.
-* EdgeDetection.py: The preprocessing part of each operator extracting details.
+If use these datasets, please cite the related paper:
 
-For training, you need to set the file_path in the main function, adopt to your train set, validate set, and test set as well. Our code train the .h5 file, you may change it through changing the code in main function.
-
-As for testing, you need to set the path in both main and test function to open and load the file.
-
-
-
-# Method
-
-* Motivation:
-  * In some of existing approaches, the particularity of remote sensing images is ignored due to all features extracted from input images being treated identically, further restricting the ability to employ relevant information selectively. 
-  * Besides, for PAN images, pioneer works often feed them directly into the network together with HS images or use a fifixed high-frequency template for preprocessing, which will inevitably lose some spatial information.
-* Proposed MDE module:
-  ![MDE module](Figs/MDE.png)
-
-* Overall Architecture
-
-![Overall](Figs/overall.png)
-
-* Visual Results
-
-![Visual](Figs/Visual.png)
-
-![visual2](Figs/visual2.png)
-
-* Quantitative Results
-
-![Quantitative](Figs/Quantitative.png)
-
-* Please see the paper for other details.
+```bibtex
+@ARTICLE{zhuo2022jstars,
+  author={Zhuo, Yu-Wei and Zhang, Tian-Jing and Hu, Jin-Fan and Dou, Hong-Xia and Huang, Ting-Zhu and Deng, Liang-Jian},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={},
+  doi={}
+}
+```
 
 
 
-# Contact
+
+
+# Contact:
 
 We are glad to hear from you. If you have any questions, please feel free to contact Yuuweii@yeah.net.
 
