@@ -10,7 +10,7 @@
 
 # Dataset Details
 
-* Use [Baidu Cloud] (https://pan.baidu.com/pcloud/home) to download these datasets.
+* Use [[Baidu Cloud](https://pan.baidu.com/pcloud/home)] to download these datasets.
 
 * The simulated datasets used in this paper are Washington DC Mall, Pavia Center and Botswana Dataset. Here we provide complete training and testing data for download.
 
@@ -41,7 +41,7 @@ If use these datasets, please cite the related paper:
   volume={},
   number={},
   pages={},
-  doi={}
+  doi={10.1109/JSTARS.2022.3202866}
 }
 ```
 
