@@ -1,7 +1,7 @@
 # HyperPanCollection
 
 ## -> Datasets for hyperspectral pansharpening, 
-## -> e.g., Washington DC Mall, Pavia Center, Botswana and a real (or full-resolution) dataset FR1.
+## -> Washington DC Mall, Pavia Center, Botswana and a real (or full-resolution) dataset FR1.
 
 * **Homepage:** https://liangjiandeng.github.io/ 
 * Also, the datasets of the paper: "A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening"
