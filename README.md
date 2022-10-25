@@ -2,7 +2,7 @@
 
 ## Hyperspectral Pansharpening Datasets: Washington DC Mall, Pavia Center, Botswana and a real (or full-resolution) dataset FR1.
 
-* ``Homepage:`` https://liangjiandeng.github.io/ 
+* ``Homepage:`` [Liang-Jian Deng](https://liangjiandeng.github.io/) and [Yu-Wei Zhuo](https://pluto-wei.github.io/)
 
 * ``Recommendation:`` Use the code [[Hyper-DSNet](https://github.com/liangjiandeng/Hyper-DSNet)] + the dataset [[HyperPanCollection](https://github.com/liangjiandeng/HyperPanCollection)] for fair training and testing!
 
