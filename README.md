@@ -22,7 +22,7 @@
 
 * ```Full-resolution dataset``` FR1 can be downloaded [here](https://openremotesensing.net/hyperspectral-pansharpening-challenge/). Also, we provided the prepared data used in this paper.
 
-  | Dataset | Link                                            | Password |
+  | Dataset | Link                                            | Size |
   | ------- | ----------------------------------------------- | -------- |
   | FR1     | [[download link](https://drive.google.com/drive/folders/1Rz1ehk8SJPWX1rtal695p2Z-thCjrJS3?usp=sharing)] | 3.08G     |
 
