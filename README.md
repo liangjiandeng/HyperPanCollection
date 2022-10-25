@@ -36,15 +36,15 @@
 
   | Dataset            | Link                                            | Password |
   | ------------------ | ----------------------------------------------- | -------- |
-  | Washington DC Mall | https://pan.baidu.com/s/120NwAPBZEICRk-lQPCl8Rg | ap12     |
-  | Pavia Center       | https://pan.baidu.com/s/1cp9mdh0EutJZyoCi2yyWZw | g118     |
-  | Botswana           | https://pan.baidu.com/s/1coTz6eBt26Ks4kswAio2Fw | 1w6e     |
+  | Washington DC Mall | [[download link](https://pan.baidu.com/s/120NwAPBZEICRk-lQPCl8Rg)]  | ap12     |
+  | Pavia Center       | [[download link](https://pan.baidu.com/s/1cp9mdh0EutJZyoCi2yyWZw)]   | g118     |
+  | Botswana           | [[download link](https://pan.baidu.com/s/1coTz6eBt26Ks4kswAio2Fw)]   | 1w6e     |
 
 * ```Full-resolution dataset``` FR1 can be downloaded [here](https://openremotesensing.net/hyperspectral-pansharpening-challenge/). Also, we provided the prepared data used in this paper.
 
   | Dataset | Link                                            | Password |
   | ------- | ----------------------------------------------- | -------- |
-  | FR1     | https://pan.baidu.com/s/1cuglyEGSejCFOXC7Epg8yQ | 3951     |
+  | FR1     | [[download link](https://pan.baidu.com/s/1cuglyEGSejCFOXC7Epg8yQ)]   | 3951     |
   
 
 # Reference
