@@ -6,7 +6,7 @@
 
 * ``Recommendation:`` Use the code [[Hyper-DSNet](https://github.com/liangjiandeng/Hyper-DSNet)] + the dataset [[HyperPanCollection](https://github.com/liangjiandeng/HyperPanCollection)] for fair training and testing!
 
-*  ``Hyper-DSNet paper``: "A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening, IEEE JSTARS, 2022"
+*  ``Hyper-DSNet paper``: "A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening, IEEE JSTARS, 2022"[[paper](https://liangjiandeng.github.io/papers/2022/zhuo-jstars2022.pdf)]
 
 
 ## Download by ``Google Drive``
