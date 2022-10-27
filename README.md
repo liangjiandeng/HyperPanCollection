@@ -9,6 +9,8 @@
 *  ``Hyper-DSNet paper``: "A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening, IEEE JSTARS, 2022"  [[paper](https://liangjiandeng.github.io/papers/2022/zhuo-jstars2022.pdf)]
 
 
+* Also, a dataset [[PanCollection](https://github.com/liangjiandeng/PanCollection)] for another similar task, i.e., (multispectral) pansharpening!
+
 ## Download by ``Google Drive``
 
 
