@@ -22,7 +22,8 @@
   | Pavia Center       | [[download link](https://drive.google.com/drive/folders/1qXCgWwh6PIMNv2_Caw7-mHoPFgb08V0x?usp=sharing)] | 11.34G     |
   | Botswana           | [[download link](https://drive.google.com/drive/folders/1Pafc9fR-nIr-n8bPRJyhL7oX9rNUxbr5?usp=sharing)] | 8.28G     |
 
-* ```Full-resolution dataset``` FR1 can be downloaded [here](https://openremotesensing.net/hyperspectral-pansharpening-challenge/). Also, we provided the prepared data used in this paper.
+* ```Full-resolution dataset``` FR1 can be downloaded [here](https://openremotesensing.net/hyperspectral-pansharpening-challenge/). Also, we provided the prepared data used in this paper. 
+  Note that, if you use this dataset, please cite the second reference at the end of this page. Thank you!
 
   | Dataset | Link                                            | Size |
   | ------- | ----------------------------------------------- | -------- |
@@ -42,7 +43,8 @@
   | Pavia Center       | [[download link](https://pan.baidu.com/s/1cp9mdh0EutJZyoCi2yyWZw)]   | g118     |
   | Botswana           | [[download link](https://pan.baidu.com/s/1coTz6eBt26Ks4kswAio2Fw)]   | 1w6e     |
 
-* ```Full-resolution dataset``` FR1 can be downloaded [here](https://openremotesensing.net/hyperspectral-pansharpening-challenge/). Also, we provided the prepared data used in this paper.
+* ```Full-resolution dataset``` FR1 can be downloaded [here](https://openremotesensing.net/hyperspectral-pansharpening-challenge/). Also, we provided the prepared data used in this paper. 
+  Note that, if you use this dataset, please cite the second reference at the end of this page. Thank you!
 
   | Dataset | Link                                            | Password |
   | ------- | ----------------------------------------------- | -------- |
@@ -51,7 +53,7 @@
 
 # Reference
 
-If use these datasets, please cite the related paper:
+If use these datasets, please cite the following related papers:
 
 ```bibtex
 @ARTICLE{zhuo2022jstars,
@@ -59,13 +61,24 @@ If use these datasets, please cite the related paper:
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={A Deep-Shallow Fusion Network with Multi-Detail Extractor and Spectral Attention for Hyperspectral Pansharpening}, 
   year={2022},
-  volume={},
+  volume={15},
   number={},
-  pages={},
+  pages={7539-7555},
   doi={10.1109/JSTARS.2022.3202866}
 }
 ```
 
+```bibtex
+@article{vivone2022panchromatic,
+  title={Panchromatic and hyperspectral image fusion: outcome of the 2022 whispers hyperspectral pansharpening challenge},
+  author={Vivone, Gemine and Garzelli, Andrea and Xu, Yang and Liao, Wenzhi and Chanussot, Jocelyn},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={16},
+  pages={166--179},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
 
 
