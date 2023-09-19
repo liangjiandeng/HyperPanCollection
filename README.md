@@ -53,7 +53,7 @@
 
 # Reference
 
-If use these datasets, please cite the following related papers:
+If use these datasets, please cite the following related paper:
 
 ```bibtex
 @ARTICLE{zhuo2022jstars,
@@ -67,6 +67,8 @@ If use these datasets, please cite the following related papers:
   doi={10.1109/JSTARS.2022.3202866}
 }
 ```
+
+If use the FR1 dataset, please cite the following related paper:
 
 ```bibtex
 @article{vivone2022panchromatic,
